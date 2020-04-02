@@ -1,9 +1,12 @@
 public class SeriousClass {
   
-  public int login (String pass, String username) {
-  return -1;
-  }
+  //public int login (String pass, String username) {
+  //return -1;
+  //}
   
+  public void appleTalk() {
+  System.out.println("Apple gooooood");
+  }
   public SeriousClass() {
     System.out.println("This is a serious class! Don't mess this up idiot!!")
   }

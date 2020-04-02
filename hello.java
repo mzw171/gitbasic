@@ -6,7 +6,6 @@ public void doSomethingInteresting() {
 	int b = 20; 
 	int c = a + b;
 	int d = b - a;
-	
 	int apple = 8;
 }
 	

@@ -6,6 +6,7 @@ public void doSomethingInteresting() {
 	int b = 20; 
 	int c = a + b;
 	int d = b - a;
+	int e = a * b;
 }
 	
  public static void main(String[] args){

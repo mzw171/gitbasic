@@ -1,7 +1,11 @@
 public class SeriousClass {
   
-  public int login (String pass, String username) {
-  return 0;
+  // public int login (String pass, String username) {
+  // return 0;
+  // }
+  
+  public int logIn(String name, String pass) {
+  return 100;
   }
   
   public SeriousClass() {

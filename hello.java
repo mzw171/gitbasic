@@ -7,6 +7,7 @@ public void doSomethingInteresting() {
 	int c = a + b;
 	int d = b - a;
 	int e = a * b;
+	int f = a - 2;
 }
 	
  public static void main(String[] args){
